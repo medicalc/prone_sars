@@ -22,4 +22,4 @@ We found that PP improved oxygenation and may avoid intubation in ICU patients w
 
 [R notebook](https://medicalc.github.io/prone_sars/){target="blank"}
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3860013.svg)](https://doi.org/10.5281/zenodo.3860013){target="blank"}
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3860013.svg)](https://doi.org/10.5281/zenodo.3860013)
