@@ -20,6 +20,6 @@ Seven patients with moderate or severe ARDS by COVID-19 were included. All patie
 **Conclusions**:
 We found that PP improved oxygenation and may avoid intubation in ICU patients with COVID-19 and moderate or severe ARDS. PP was relatively well tolerated in our patients. and may be a simple strategy to improve oxygenation trying to reduce patients in mechanical ventilation and the length of stay in the ICU, especially in the COVID-19 pandemic.
 
-[R notebook](https://medicalc.github.io/prone_sars/){target="blank"}
+[R notebook](https://medicalc.github.io/prone_sars/)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3860013.svg)](https://doi.org/10.5281/zenodo.3860013)
